@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IzmoMac
-- 👀 I’m interested in C# and OOP
-- 🌱 I’m currently learning C# and OOP
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning C#
 - 📫 How to reach me, leave a comment-
 - Lets see how this thing works
 
